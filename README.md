@@ -3,33 +3,23 @@
 
 ![Dashboard Preview](screenshots/Dashboard%201.png)
 
----
-
 ## Project Overview
 
 This project is a two-page interactive Power BI dashboard that connects global oil price volatility to the Western Australian lithium opportunity. Built as part of a data science and finance portfolio, it demonstrates macro-economic analysis, multi-source data integration, and strategic business intelligence thinking.
 
 The dashboard was built in response to the 2025-2026 Middle East energy crisis, which pushed Brent Crude Oil above $108 USD and Perth petrol prices beyond $2.40 per litre. The analysis tracks four of WA's most significant ASX-listed lithium producers — Pilbara Minerals (PLS), IGO Limited (IGO), Mineral Resources (MIN) and Liontown Resources (LTR) — and reveals that while fossil fuel prices surged, these four companies collectively outperformed the Brent Oil index by 49 points over the same period.
 
----
-
 ## Problem Statement
 
 The ongoing Middle East conflict triggered a sustained surge in global oil prices, directly impacting the cost of living for WA consumers, the investment decisions of global capital markets, and the strategic planning of EV manufacturers seeking stable long-term battery material supply. Despite this crisis, WA's lithium sector — anchored by Pilbara Minerals, IGO Limited, Mineral Resources and Liontown Resources — remains underutilised as a strategic solution to global energy insecurity.
-
----
 
 ## Project Objective
 
 To build an interactive Power BI dashboard connecting global oil price volatility, Perth petrol prices, and ASX lithium stock performance into a single data story — proving that WA's lithium sector is not just a commodity play, but a strategic energy security asset for governments, investors, and EV manufacturers worldwide.
 
----
-
 ## Key Finding
 
 > **Pilbara Minerals (PLS), IGO Limited (IGO), Mineral Resources (MIN) and Liontown Resources (LTR) collectively outperformed the Brent Oil index by 49 points between January 2025 and March 2026. Liontown Resources delivered the strongest individual performance of the four companies over that period.**
-
----
 
 ## Dashboard Structure
 
@@ -53,8 +43,6 @@ Answers: What should WA do about it and how big is the prize?
 | EV Scenario Card | Revenue impact model at 10% global EV adoption increase |
 | Mine Map | WA mine locations with bubble size representing production capacity |
 
----
-
 ## Data Sources
 
 | Source | Description | Format |
@@ -65,8 +53,6 @@ Answers: What should WA do about it and how big is the prize?
 | Company_Profiles.xlsx | Manual lookup table — mine names, capacity, strategic role | Excel |
 
 **Date range:** January 1 2025 to March 31 2026 (15 months)
-
----
 
 ## Companies Analysed
 
@@ -79,8 +65,6 @@ Answers: What should WA do about it and how big is the prize?
 
 **Total WA capacity: 3.49 million tonnes**
 
----
-
 ## Technical Stack
 
 - **Tool:** Microsoft Power BI Desktop (June 2025)
@@ -88,8 +72,6 @@ Answers: What should WA do about it and how big is the prize?
 - **Languages:** DAX · Power Query (M)
 - **Data sources:** 5 connected tables
 - **Relationships:** One-to-many from Master_Calendar to all fact tables
-
----
 
 ## DAX Measures
 
@@ -147,8 +129,6 @@ ROUND(
 )
 ```
 
----
-
 ## Data Model
 
 ```
@@ -158,8 +138,6 @@ Master_Calendar (hub)
     ├── FuelWatch (1:1)
     └── Company_Profiles (standalone)
 ```
-
----
 
 ## How to Use
 
@@ -171,19 +149,15 @@ Master_Calendar (hub)
 6. Use the Date slicer to zoom into specific periods
 7. Navigate to Page 2 to explore the opportunity analysis
 
----
-
 ## Strategic Insight
 
-This dashboard makes three arguments simultaneously:
+This dashboard makes three arguments simultaneously.
 
 **For EV manufacturers:** WA is the world's most stable, geopolitically safe lithium supply partner. Unlike oil, WA lithium is not subject to Middle East conflict or shipping lane disruption.
 
 **For the WA government:** At 10% global EV adoption increase, the revenue impact on WA's lithium industry runs to $5.24 billion AUD. The infrastructure, jobs, and royalties that come with being the world's most reliable lithium supplier are within reach.
 
-**For investors:** The data shows that lithium stocks outperformed the oil index by 49 points over 15 months — suggesting the market is pricing in the energy transition faster than most people realise.
-
----
+**For investors:** The data shows that lithium stocks outperformed the oil index by 49 points over 15 months, suggesting the market is pricing in the energy transition faster than most people realise.
 
 ## Skills Demonstrated
 
@@ -194,28 +168,25 @@ This dashboard makes three arguments simultaneously:
 - Macro-economic analysis and data storytelling
 - Interactive dashboard design and UI/UX
 
----
-
 ## Disclaimer
 
 This analysis is for educational and portfolio purposes only. It does not constitute financial advice. All data is publicly available and sourced as indicated above.
 
----
-
 ## About the Author
 
 **Divyanshu Narula**
-Data Science & Finance Graduate — Perth, Western Australia
+Analytics Engineer and Power BI Developer — Perth, Western Australia
+Bachelor of Science (Data Science and Finance), University of Western Australia
 
-This project was developed independently as part of a professional portfolio demonstrating business intelligence and data analytics capabilities. The analytical skills applied in this project were developed through hands-on experience across the following organisations:
+This project was developed independently as part of a professional portfolio demonstrating business intelligence, macro-economic analysis, and data engineering capabilities across the full data lifecycle — from ingestion and transformation through to modelling and reporting.
 
-- **MYNR Australia** — Data analysis and reporting, supporting community funding assessments and program performance tracking using Excel, SmartyGrants, and Power BI
-- **Communicare** — Program data monitoring, KPI tracking, and stakeholder reporting across community engagement programs
-- **The University of Notre Dame Australia** — Laboratory data management, statistical analysis, and reproducible data workflows using SQL, Python, and R
+Professional experience includes:
 
-[LinkedIn](https://www.linkedin.com/in/) · [GitHub](https://github.com/divyanshunarula)
+- **ChemCentre (Bentley, WA)** — Data Analyst Intern. Built Power BI dashboards, managed laboratory datasets using SQL, Python and R, and developed reproducible data workflows reducing manual processing across 3+ reporting dashboards.
+- **City of Swan (Midland, WA)** — Community Funding Support Intern. Assessed 50+ community funding applications, produced quarterly analytical reports, and streamlined Excel and SmartyGrants workflows for data validation and stakeholder reporting.
+- **Sister Project (Ellenbrook, WA)** — Social Enterprise Coordinator. Monitored KPIs across 20+ program participants, developed Excel-based reporting dashboards, and delivered monthly performance reports to leadership and community partners.
 
----
+[LinkedIn](https://www.linkedin.com/in/divyanshu-narula-) · [GitHub](https://github.com/divyanshunarula)
 
 ## Acknowledgements
 
