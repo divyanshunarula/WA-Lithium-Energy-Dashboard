@@ -1,7 +1,7 @@
 # WA Energy Pivot: Lithium vs Fossil Fuel Inflation
 ### A Power BI Business Intelligence Dashboard
 
-![Dashboard Preview](screenshots/page1_dashboard.png)
+![Dashboard Preview](screenshots/Dashboard%201.png)
 
 ---
 
@@ -9,13 +9,13 @@
 
 This project is a two-page interactive Power BI dashboard that connects global oil price volatility to the Western Australian lithium opportunity. Built as part of a data science and finance portfolio, it demonstrates macro-economic analysis, multi-source data integration, and strategic business intelligence thinking.
 
-The dashboard was built in response to the 2025-2026 Middle East energy crisis, which pushed Brent Crude Oil above $108 USD and Perth petrol prices beyond $2.40 per litre. The analysis reveals that while fossil fuel prices surged, WA's four major lithium producers collectively outperformed the Brent Oil index by 49 points over the same period.
+The dashboard was built in response to the 2025-2026 Middle East energy crisis, which pushed Brent Crude Oil above $108 USD and Perth petrol prices beyond $2.40 per litre. The analysis tracks four of WA's most significant ASX-listed lithium producers — Pilbara Minerals (PLS), IGO Limited (IGO), Mineral Resources (MIN) and Liontown Resources (LTR) — and reveals that while fossil fuel prices surged, these four companies collectively outperformed the Brent Oil index by 49 points over the same period.
 
 ---
 
 ## Problem Statement
 
-The ongoing Middle East conflict triggered a sustained surge in global oil prices, directly impacting the cost of living for WA consumers, the investment decisions of global capital markets, and the strategic planning of EV manufacturers seeking stable long-term battery material supply. Despite this crisis, WA's lithium sector — the world's largest hard-rock producer — remains underutilised as a strategic solution to global energy insecurity.
+The ongoing Middle East conflict triggered a sustained surge in global oil prices, directly impacting the cost of living for WA consumers, the investment decisions of global capital markets, and the strategic planning of EV manufacturers seeking stable long-term battery material supply. Despite this crisis, WA's lithium sector — anchored by Pilbara Minerals, IGO Limited, Mineral Resources and Liontown Resources — remains underutilised as a strategic solution to global energy insecurity.
 
 ---
 
@@ -27,7 +27,7 @@ To build an interactive Power BI dashboard connecting global oil price volatilit
 
 ## Key Finding
 
-> **WA's lithium sector outperformed the Brent Oil index by 49 points between January 2025 and March 2026. Liontown Resources led all four companies over that period.**
+> **Pilbara Minerals (PLS), IGO Limited (IGO), Mineral Resources (MIN) and Liontown Resources (LTR) collectively outperformed the Brent Oil index by 49 points between January 2025 and March 2026. Liontown Resources delivered the strongest individual performance of the four companies over that period.**
 
 ---
 
@@ -202,15 +202,21 @@ This analysis is for educational and portfolio purposes only. It does not consti
 
 ---
 
-## Author
+## About the Author
 
-**Divyanshu**
+**Divyanshu Narula**
 Data Science & Finance Graduate — Perth, Western Australia
-[LinkedIn](https://www.linkedin.com/in/) · [GitHub](https://github.com/)
+
+This project was developed independently as part of a professional portfolio demonstrating business intelligence and data analytics capabilities. The analytical skills applied in this project were developed through hands-on experience across the following organisations:
+
+- **MYNR Australia** — Data analysis and reporting, supporting community funding assessments and program performance tracking using Excel, SmartyGrants, and Power BI
+- **Communicare** — Program data monitoring, KPI tracking, and stakeholder reporting across community engagement programs
+- **The University of Notre Dame Australia** — Laboratory data management, statistical analysis, and reproducible data workflows using SQL, Python, and R
+
+[LinkedIn](https://www.linkedin.com/in/) · [GitHub](https://github.com/divyanshunarula)
 
 ---
 
 ## Acknowledgements
 
 Data sourced from Investing.com, WA FuelWatch, and Yahoo Finance. Dashboard built using Microsoft Power BI Desktop.
-
