@@ -176,7 +176,9 @@ This analysis is for educational and portfolio purposes only. It does not consti
 
 **Divyanshu Narula**
 Analytics Engineer and Power BI Developer — Perth, Western Australia
+
 Bachelor of Science (Data Science and Finance), University of Western Australia
+
 [LinkedIn](https://www.linkedin.com/in/divyanshu-narula-) · [GitHub](https://github.com/divyanshunarula)
 
 ## Acknowledgements
