@@ -177,15 +177,6 @@ This analysis is for educational and portfolio purposes only. It does not consti
 **Divyanshu Narula**
 Analytics Engineer and Power BI Developer — Perth, Western Australia
 Bachelor of Science (Data Science and Finance), University of Western Australia
-
-This project was developed independently as part of a professional portfolio demonstrating business intelligence, macro-economic analysis, and data engineering capabilities across the full data lifecycle — from ingestion and transformation through to modelling and reporting.
-
-Professional experience includes:
-
-- **ChemCentre (Bentley, WA)** — Data Analyst Intern. Built Power BI dashboards, managed laboratory datasets using SQL, Python and R, and developed reproducible data workflows reducing manual processing across 3+ reporting dashboards.
-- **City of Swan (Midland, WA)** — Community Funding Support Intern. Assessed 50+ community funding applications, produced quarterly analytical reports, and streamlined Excel and SmartyGrants workflows for data validation and stakeholder reporting.
-- **Sister Project (Ellenbrook, WA)** — Social Enterprise Coordinator. Monitored KPIs across 20+ program participants, developed Excel-based reporting dashboards, and delivered monthly performance reports to leadership and community partners.
-
 [LinkedIn](https://www.linkedin.com/in/divyanshu-narula-) · [GitHub](https://github.com/divyanshunarula)
 
 ## Acknowledgements
